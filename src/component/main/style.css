@@ -1,0 +1,47 @@
+.tab {
+  color: #b6d2e6;
+}
+
+.tab-selected {
+  color: #40a3d7;
+}
+.primary-color {
+  color: #0065a7 !important;
+}
+.gray-color {
+  color: #adb7c2 !important;
+}
+.secondary-color {
+  color: #ffa42c !important;
+}
+.gray-divider {
+  border-top: 0.5px dashed #adb7c2 !important;
+  opacity: 0.4;
+}
+.secondary-divider {
+  border-top: 1px dashed #ffc540 !important;
+  opacity: 0.4;
+}
+
+.tab-underline {
+  width: 50px;
+  border: 1px solid #40a3d7 !important;
+}
+
+.sub-tab {
+  height: 35px;
+  width: 35px;
+  border-radius: 7px;
+  background-color: #e9ecf1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-tab-selected {
+  background-color: #fff7e6 !important;
+  color: #ffc540 !important;
+}
+.sub-tab-selected-divider {
+  border-color: #ffc540 !important;
+}
